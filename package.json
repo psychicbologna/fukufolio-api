@@ -1,0 +1,19 @@
+{
+  "name": "fukufolio-api",
+  "version": "1.0.0",
+  "description": "A companion server to my portfolio template",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016https://github.com/psychicbologna/fukufolio-api.git"
+  },
+  "author": "Alex Fukui Design LLC",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
